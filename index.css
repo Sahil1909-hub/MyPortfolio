@@ -20,7 +20,7 @@
 }
 
 .portfoliologo {
-    background-image: url("/Images/my_photo.jpg");
+    background-image: url("Images/my_photo.jpg");
     background-size: cover;
     height: 350px;
     width: 350px;
